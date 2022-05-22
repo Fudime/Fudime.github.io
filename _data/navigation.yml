@@ -27,7 +27,7 @@ header:
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /Resources.html
+    url: /resources.html
     
   - titles:
       # @start locale config
