@@ -19,7 +19,6 @@ header:
       # @end locale config
     url: /about.html
 
-header:
   - titles:
       # @start locale config
       en      : &EN       Contact
@@ -40,7 +39,6 @@ header:
       # @end locale config
     url: /research.html
 
-header:
   - titles:
       # @start locale config
       en      : &EN       Teaching
