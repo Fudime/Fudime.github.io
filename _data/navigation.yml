@@ -1,4 +1,35 @@
 header:
+
+   - titles:
+      # @start locale config
+      en      : &EN       RESEARCH
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /research.html
+ 
+   - titles:
+      # @start locale config
+      en      : &EN       TEACHING
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /teaching.html
+    
+   - titles:
+      # @start locale config
+      en      : &EN       RESOURCES
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /resources.html
+
   - titles:
       # @start locale config
       en      : &EN       ARCHIVE
