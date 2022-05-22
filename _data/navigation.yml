@@ -1,37 +1,7 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /archive.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /about.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       Contact
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /contact.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       Research
+      en      : &EN       RESEARCH
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -41,7 +11,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Teaching
+      en      : &EN       TEACHING
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -51,13 +21,43 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Resources
+      en      : &EN       RESOURCES
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
     url: /Resources.html
+    
+  - titles:
+      # @start locale config
+      en      : &EN       ARCHIVES
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /archive.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       ABOUT
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       CONTACT
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /contact.html
 
 
     
