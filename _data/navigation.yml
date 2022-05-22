@@ -1,4 +1,13 @@
 header:
+
+  - title: RESEARCH
+    url: /research.html
+ 
+   - title: TEACHING
+     url: /teaching.html
+    
+   - title: RESOURCES
+     url: /resources.html
     
   - title: ARCHIVE
     url: /archive.html
@@ -9,11 +18,4 @@ header:
   - title: CONTACT
     url: /contact.html 
     
-  - title: RESEARCH
-    url: /research.html
- 
-   - title: TEACHING
-     url: /teaching.html
-    
-   - title: RESOURCES
-     url: /resources.html
+
