@@ -1,63 +1,19 @@
 header:
     
-     - titles:
-      # @start locale config
-      en      : &EN       ARCHIVE
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-
-      # @end locale config
+  - title: ARCHIVE
     url: /archive.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       ABOUT
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-
-      # @end locale config
+  - title: ABOUT
     url: /about.html
     
-  - titles:
-      # @start locale config
-      en      : &EN       CONTACT
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
+  - title:   CONTACT
     url: /contact.html 
     
-  - titles:
-      # @start locale config
-      en      : &EN       RESEARCH
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
+  - title:   RESEARCH
     url: /research.html
  
-   - titles:
-      # @start locale config
-      en      : &EN       TEACHING
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /teaching.html
+   - titles: TEACHING
+     url: /teaching.html
     
-   - titles:
-      # @start locale config
-      en      : &EN       RESOURCES
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /resources.html
+   - titles: RESOURCES
+     url: /resources.html
