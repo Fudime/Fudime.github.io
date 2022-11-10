@@ -28,23 +28,3 @@ header:
       en-AU   : *EN
       # @end locale config
     url: /BLOG.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       ABOUT
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /about.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       CONTACT
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /contact.html
