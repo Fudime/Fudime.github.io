@@ -27,4 +27,4 @@ header:
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /aboutFD.md
+    url: /aboutFD.html
