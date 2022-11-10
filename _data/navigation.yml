@@ -21,10 +21,10 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       BLOG
+      en      : &EN       OTHER
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /BLOG.html
+    url: /OTHER.html
