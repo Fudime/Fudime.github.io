@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Document - Writing Posts
+title: my first blog article
 mathjax: true
 ---
 
