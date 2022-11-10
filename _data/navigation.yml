@@ -28,16 +28,6 @@ header:
       en-AU   : *EN
       # @end locale config
     url: /resources.html
-    
-  - titles:
-      # @start locale config
-      en      : &EN       ARCHIVES
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /archive.html
 
   - titles:
       # @start locale config
