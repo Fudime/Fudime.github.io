@@ -21,13 +21,13 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       RESOURCES
+      en      : &EN       BLOG
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
       en-AU   : *EN
       # @end locale config
-    url: /resources.html
+    url: /BLOG.html
 
   - titles:
       # @start locale config
