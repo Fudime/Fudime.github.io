@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Reading Notes on DH: Ravina, Mark. 'Algorithmic Maps and the Political Geography of Early-Modern Japan.' 
+title: Reading Notes on DH - Ravina, Mark. 'Algorithmic Maps and the Political Geography of Early-Modern Japan.' 
 tags: TeXt
 mathjax: true
 ---
