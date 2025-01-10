@@ -89,5 +89,5 @@ If you'd like to cite this blog post, you can use the following format:
 ## Recommended Citation
 If you'd like to reference this blog article, please use the following format:
 
-Zhao, Fudie. 2025. “A Review of ‘Algorithmic Maps and the Political Geography of Early-Modern Japan.’” *Blog Article*.[https://example.com/article](https://example.com/article).
+Zhao, Fudie. 2025. “A Review of ‘Algorithmic Maps and the Political Geography of Early-Modern Japan.’” *Blog Article*.[https://fdzh.net/2025/01/10/Reading-Notes-DH.html](https://fdzh.net/2025/01/10/Reading-Notes-DH.html).
 
