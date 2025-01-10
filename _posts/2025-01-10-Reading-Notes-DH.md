@@ -84,6 +84,10 @@ Fields such as the sciences and social sciences have long accumulated statistica
 - **Ravina’s Use**: Highlights governance in early-modern Japan. Lords with more contiguous (connected) territories had greater control and could manage resources more efficiently, while fragmented territories posed administrative challenges.
 
 ## Recommended Citation
-If you'd like to cite this blog post, please use the following format:
+If you'd like to cite this blog post, you can use the following format:
 
-Zhao, Fudie. 2025. “A Review of ‘Algorithmic Maps and the Political Geography of Early-Modern Japan.’” *Self-published article*. Accessed January 10, 2025. [https://example.com/article](https://example.com/article).
+## Recommended Citation
+If you'd like to reference this blog article, please use the following format:
+
+Zhao, Fudie. 2025. “A Review of ‘Algorithmic Maps and the Political Geography of Early-Modern Japan.’” *Blog Article*.[https://example.com/article](https://example.com/article).
+
