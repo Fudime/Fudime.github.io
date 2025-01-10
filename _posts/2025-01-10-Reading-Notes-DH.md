@@ -4,9 +4,7 @@ title: Reading Notes on DH - Ravina, Mark. 'Algorithmic Maps and the Political G
 tags: TeXt
 mathjax: true
 ---
-# Ravina, Mark. “Algorithmic Maps and the Political Geography of Early-Modern Japan.”  
-Journal of Cultural Analytics, vol. 8, no. 3, Aug. 2023,  
-[https://doi.org/10.22148/001c.84860](https://doi.org/10.22148/001c.84860)
+Ravina, Mark. “Algorithmic Maps and the Political Geography of Early-Modern Japan.”Journal of Cultural Analytics, vol. 8, no. 3, Aug. 2023,[https://doi.org/10.22148/001c.84860](https://doi.org/10.22148/001c.84860)
 
 ---
 ## **Summary of Content**
